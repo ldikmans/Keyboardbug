@@ -1,0 +1,7 @@
+{
+  "name": "KeyboardBug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
